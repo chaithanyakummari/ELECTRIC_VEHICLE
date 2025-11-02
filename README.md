@@ -16,8 +16,10 @@ Week 1 Progress — Data Preparation Phase
 ✅ Save clean and encoded datasets for further processing  
 
 📊 Dataset
+
 Source: EVs-one Electric Vehicle dataset (Kaggle)
 Files Used:
 
 EV_data1.csv (original data)
+
 EV_data_encoded.csv (cleaned for ML)
