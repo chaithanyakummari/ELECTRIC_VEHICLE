@@ -24,3 +24,17 @@ Files Used:
 EV_data1.csv (original data)
 
 EV_data_encoded.csv (cleaned for ML)
+
+Week 2 Focus: Building and Evaluating Machine Learning Models
+
+In Week 1, the dataset was cleaned, preprocessed, and encoded for machine learning.
+In Week 2, the focus shifts toward training predictive models that can estimate the real-world range (in kilometers) of Electric Vehicles based on their specifications and attributes.
+
+🎯 Objectives
+
+✅ Split the dataset into training and testing sets
+✅ Train multiple regression models for EV range prediction
+✅ Evaluate model performance using suitable metrics
+✅ Identify the best-performing model based on accuracy and error scores
+✅ Save the final model for deployment or future predictions
+
